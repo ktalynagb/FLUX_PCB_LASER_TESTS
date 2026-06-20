@@ -70,8 +70,7 @@ Los diseños base fueron obtenidos de repositorios open source de la comunidad d
 
 ## 👤 Autoría / Mantenimiento
 
-Proyecto desarrollado por el equipo de **FLUX Solutions Cali**, en colaboración con Universidad Autónoma de Occidente.
-
+Proyecto desarrollado por el equipo de **FLUX Solutions Cali**
 ---
 
 *Este repositorio se encuentra en fase de pruebas. Los archivos de fabricación (Gerbers) serán incorporados en una próxima actualización.*
