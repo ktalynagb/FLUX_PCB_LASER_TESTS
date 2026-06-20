@@ -17,11 +17,11 @@ El repositorio contiene un total de **6 diseños**, agrupados según el tipo de 
 | # | Diseño | Tipo de montaje | Caras |
 |---|--------|------------------|-------|
 | 1 | SMD una cara | Superficial (SMD) | 1 cara |
-| 2 | SMD una cara (variante ancho de pista) | Superficial (SMD) | 1 cara |
+| 2 | SMD una cara | Superficial (SMD) | 1 cara |
 | 3 | SMD dos caras | Superficial (SMD) | 2 caras |
-| 4 | SMD dos caras (variante ancho de pista) | Superficial (SMD) | 2 caras |
+| 4 | SMD dos caras | Superficial (SMD) | 2 caras |
 | 5 | THT | Through-Hole (THT) | 1-2 caras |
-| 6 | THT (variante ancho de pista) | Through-Hole (THT) | 1-2 caras |
+| 6 | THT | Through-Hole (THT) | 1-2 caras |
 
 > Nota: actualizar esta tabla con los nombres definitivos de cada diseño una vez estén organizados en sus carpetas correspondientes.
 
